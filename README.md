@@ -25,7 +25,7 @@ This project is a simple implementation of a single-layer perceptron with a Grap
 2.  **Install Dependencies:** Make sure you have Python installed. Install the required libraries using pip:
     ```bash
     pip install numpy tkinter
-    ```.
+    ```
 3.  **Setup `config.txt`:** Create or edit the `config.txt` file in the same directory as the Python scripts. The format should be the bias followed by the weights, separated by commas. For example, for an AND gate perceptron:
     ```
     -1.5, 1, 1
